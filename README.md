@@ -20,3 +20,8 @@ _This week I learned how to use github and gitbash._
 > _Something I learned this week is how to create repos in GitHb.  Also, the use of Markdown to add images and make your text look **different**._
 
 ![ThreeMonkeys](https://www.desktopbackground.org/download/1024x768/2015/01/21/890472_funny-monkey-funny-monkey-wallpapers-download-fine-hd-wallpapaper-rr_1024x768_h.jpg)
+
+##### Leyla Musse
+_This week I learned about the different git commands and their functions. I also learned how to use Github and create repo's_
+
+![Waterfall](https://t3.ftcdn.net/jpg/02/85/95/46/360_F_285954627_rjiQEJalQTvAXL9aKrN3pHrbXHYEjSCR.jpg)
